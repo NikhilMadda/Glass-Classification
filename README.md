@@ -34,4 +34,10 @@ Accuracy ≈ 70–73% with optimal K = 5
 Error rate decreases initially as K increases, stabilizes after ~5.
 
 
+<img width="1000" height="793" alt="output" src="https://github.com/user-attachments/assets/210e87e1-6ba3-4ae3-8f61-0378509698a8" />
+
+
+
+
+
 
