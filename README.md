@@ -36,6 +36,15 @@ Error rate decreases initially as K increases, stabilizes after ~5.
 
 <img width="1000" height="793" alt="output" src="https://github.com/user-attachments/assets/210e87e1-6ba3-4ae3-8f61-0378509698a8" />
 
+<img width="1000" height="793" alt="output (1)" src="https://github.com/user-attachments/assets/175587b6-f02f-45a9-a661-1eddba38eb17" />
+
+<img width="1408" height="947" alt="output (2)" src="https://github.com/user-attachments/assets/d6b5fa1f-8609-4cb1-aca8-8d6c25dd1dd4" />
+
+<img width="1383" height="947" alt="output (3)" src="https://github.com/user-attachments/assets/d1ac3633-9ea5-41f9-8e0c-cb61f746a964" />
+
+
+
+
 
 
 
